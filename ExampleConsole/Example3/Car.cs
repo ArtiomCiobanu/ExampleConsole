@@ -9,6 +9,12 @@
             _engine = engine;
         }
 
+        public Car()
+        {
+            _engine = new Engine();
+            _engine.Start();
+        }
+
         public Engine GetEngine()
         {
             return _engine;

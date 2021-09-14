@@ -16,5 +16,15 @@
                 return _department;
             }
         }
+
+        public Department Get_Department()
+        {
+            if (_department == null)
+            {
+                _department = new Department();
+            }
+
+            return _department;
+        }
     }
 }

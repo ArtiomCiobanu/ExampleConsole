@@ -1,4 +1,4 @@
-﻿using System;
+﻿using ExampleConsole.Example3;
 
 namespace ExampleConsole
 {
@@ -6,7 +6,15 @@ namespace ExampleConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Example3();
+        }
+
+        static void Example3()
+        {
+            var car = new Car();
+
+            var engineFromCar = car.GetEngine();
+            engineFromCar.Stop();
         }
     }
 }

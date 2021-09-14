@@ -1,7 +1,4 @@
-﻿using System;
-using System.IO;
-
-namespace ExampleConsole.Example2
+﻿namespace ExampleConsole.Example2
 {
     public class Enemy
     {
@@ -12,7 +9,7 @@ namespace ExampleConsole.Example2
             return _movementSpeed;
         }
 
-        public int Set_MovementSpeed(int speed)
+        /*public int Set_MovementSpeed(int speed)
         {
             if (speed < 0)
             {
@@ -20,6 +17,6 @@ namespace ExampleConsole.Example2
             }
 
             return speed;
-        }
+        }*/
     }
 }
