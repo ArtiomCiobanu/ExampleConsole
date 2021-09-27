@@ -2,6 +2,6 @@
 {
     public class С
     {
-        public string A { get; set; }
+        public string Name { get; set; }
     }
 }

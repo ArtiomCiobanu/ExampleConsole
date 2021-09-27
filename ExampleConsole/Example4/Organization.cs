@@ -1,4 +1,6 @@
-﻿namespace ExampleConsole.Example4
+﻿using System;
+
+namespace ExampleConsole.Example4
 {
     public class Organization
     {
@@ -15,6 +17,11 @@
 
                 return _department;
             }
+        }
+
+        public Organization()
+        {
+            Console.WriteLine(_department == null);
         }
 
         public Department Get_Department()

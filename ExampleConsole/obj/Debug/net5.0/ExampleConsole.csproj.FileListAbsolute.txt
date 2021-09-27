@@ -1,0 +1,16 @@
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ExampleConsole.exe
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ExampleConsole.deps.json
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ExampleConsole.runtimeconfig.json
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ExampleConsole.runtimeconfig.dev.json
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ExampleConsole.dll
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ref\ExampleConsole.dll
+C:\Projects\ExampleConsole\ExampleConsole\bin\Debug\net5.0\ExampleConsole.pdb
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.csproj.AssemblyReference.cache
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.AssemblyInfoInputs.cache
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.AssemblyInfo.cs
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.csproj.CoreCompileInputs.cache
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.dll
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ref\ExampleConsole.dll
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.pdb
+C:\Projects\ExampleConsole\ExampleConsole\obj\Debug\net5.0\ExampleConsole.genruntimeconfig.cache

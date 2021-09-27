@@ -1,4 +1,6 @@
-﻿using ExampleConsole.Example3;
+﻿using System;
+using ExampleConsole.Example3;
+using ExampleConsole.Example4;
 
 namespace ExampleConsole
 {
@@ -6,15 +8,10 @@ namespace ExampleConsole
     {
         static void Main(string[] args)
         {
-            Example3();
-        }
+            Organization organization = new Organization();
 
-        static void Example3()
-        {
-            var car = new Car();
-
-            var engineFromCar = car.GetEngine();
-            engineFromCar.Stop();
+            var department = organization.Get_Department();
+            var department2 = organization.Get_Department();
         }
     }
 }
